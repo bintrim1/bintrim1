@@ -14,12 +14,13 @@ My journey in data science began with a strong foundation in Information Science
     Core Competencies: Statistics, Probability, Linear Algebra, Data Analysis
 
 ### 💼 Notable Projects
-Churn Prediction Model
+**Churn Prevention Model**
 
 Date: June 2024
 
 In my final project at TripleTen, I developed a machine learning model to predict customer churn. By analyzing various models and maximizing the AUC-ROC, I delivered a final CatBoost model with an impressive 0.93 AUC-ROC. This project highlighted the top 5 factors influencing churn, providing actionable insights for stakeholders.
-Taxi Ride Volume Forecasting
+
+**Taxi Ride Volume Forecasting**
 
 Date: May 2024
 
