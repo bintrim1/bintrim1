@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Jordan
 
-I am an aspiring Data Scientist with over 6 years of experience in healthcare EHR interoperability and a passion for leveraging data to solve complex problems. I recently completed an intensive Data Science program at TripleTen, where I honed my skills in Python, machine learning, and data analysis.
+I am a Data Scientist with over 6 years of experience in healthcare EHR interoperability and a passion for leveraging data to solve complex problems. I recently completed an intensive Data Science program at TripleTen, where I honed my skills in Python, machine learning, and data analysis.
 
 ### 🌟 About Me
 
